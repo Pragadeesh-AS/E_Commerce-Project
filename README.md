@@ -2,9 +2,6 @@
 <html>
     <head>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <title>
-    
-    </title>
     <link rel="stylesheet" href="E_Commerce.css">
      <div class="header">
         <h1 align="center">Urban Graze Dinner</h1>
@@ -13,16 +10,14 @@
             <a href ="#menu1"><button>Menu </button></a>
             <a href="#contact1"><button>Contact</button></a>
          </div>
-        
-    </div>
+        </div>
     <div id="home1" class="container">
       <div class="intro">
           <p>Welcome to <strong>Urban Graze</strong>, where every meal is a story of passion and perfection. Nestled in the heart of the city, we pride ourselves on crafting unforgettable dining experiences that resonate with taste and warmth. Whether you're visiting for a hearty meal or placing an order for delivery, our dedication to excellence shines through every dish.</p>
 
-          <p>At Urban Graze, quality is our cornerstone. Each dish is prepared using the freshest ingredients, handpicked to ensure unparalleled flavor and nutrition. Our chefs, with their culinary mastery, blend traditional recipes with contemporary techniques to bring you a menu that's both innovative and satisfying. From farm-fresh produce to aromatic spices, every detail is meticulously chosen.</p>
+<p>At Urban Graze, quality is our cornerstone. Each dish is prepared using the freshest ingredients, handpicked to ensure unparalleled flavor and nutrition. Our chefs, with their culinary mastery, blend traditional recipes with contemporary techniques to bring you a menu that's both innovative and satisfying. From farm-fresh produce to aromatic spices, every detail is meticulously chosen.</p>
 
-          <p>We understand that time is precious. That's why our delivery service is as swift as it is reliable. Our streamlined operations ensure your order reaches your doorstep piping hot, well within the promised time. Whether you're indulging in comfort food or exploring our gourmet options, your satisfaction is our commitment.</p>
-
+<p>We understand that time is precious. That's why our delivery service is as swift as it is reliable. Our streamlined operations ensure your order reaches your doorstep piping hot, well within the promised time. Whether you're indulging in comfort food or exploring our gourmet options, your satisfaction is our commitment.</p>
           <p>Beyond the plate, we strive to create an ambiance of joy and connection. Our friendly staff, inviting interiors, and seamless service reflect our mission to be more than just a restaurant—we aim to be a cherished part of your daily life. Thank you for making Urban Graze your preferred dining destination.</p>
       </div>
   </div>
@@ -32,7 +27,7 @@
     </center>
     <div id="menu1" class="container">
     
-      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+   <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div class="col">
           <div class="card shadow-sm">
             <img class="bd-placeholder-img card-img-top" width="100%" height="300" src="Tc.jp.jpg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
@@ -81,7 +76,7 @@
           </div>
         </div>
 
-        <div class="col">
+   <div class="col">
           <div class="card shadow-sm">
             <img class="bd-placeholder-img card-img-top" width="100%" height="300" src="fc.jpg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
             <div class="card-body">
@@ -127,7 +122,7 @@
           </div>
         </div>
 
-        <div class="col">
+   <div class="col">
           <div class="card shadow-sm">
             <img class="bd-placeholder-img card-img-top" width="100%" height="300" src="kothu.jpg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
             <div class="card-body">
